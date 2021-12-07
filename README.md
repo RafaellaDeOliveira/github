@@ -3,7 +3,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻  Graduada em Sistema de Informação. </p>
-<p> - 👨‍🎓  Cursando mestrado em ciencia da computação na UFSCAR (Universidade Federal de São Carlos), com enfoque em Banco de Dados.</p>
+<p> - 👨‍🎓 ...</p>
 <p> - 🎯 Interesse: Java, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 
   
